@@ -1,4 +1,4 @@
-# Automação-das-cotações-(Dolar-Euro-Ouro)-em-uma-base-de-dados
+# Automação das cotações (Dolar, Euro, Ouro) em uma base de dados
 
 OBS:
 Para funcionar normalmente, baixar as seguintes bibliotecas:

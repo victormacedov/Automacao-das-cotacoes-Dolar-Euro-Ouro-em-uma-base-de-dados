@@ -1,0 +1,1 @@
+# Automacao-das-cotacoes-Dolar-Euro-Ouro-em-uma-base-de-dados
